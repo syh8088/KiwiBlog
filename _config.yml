@@ -3,7 +3,18 @@
 # # # # # # # # # # # # #
 
 # Basic
-name:               "KiWi Plus"
+name:               "syh808 기술 블로그"
+
+writer:
+  defaultImage: "/assets/images/member/defaultProfile.png"
+
+writers:
+  - member:
+      id: "syh8088"
+      url: "https://github.com/syh8088"
+      image: "/assets/images/member/syh8088.png"
+      name: "서양훈"
+
 
 author:
   facebook:         your-id
